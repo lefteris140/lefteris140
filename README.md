@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=26&pause=1000&color=#990000&center=true&vCenter=true&width=625&height=44&lines=an%20AI%20researcher%20tryna%20change%20the%20world;all%20code%20is%20open%20sourced%20and%20free" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=26&pause=1000&color=#d1242f&center=true&vCenter=true&width=625&height=44&lines=an%20AI%20researcher%20tryna%20change%20the%20world;all%20code%20is%20open%20sourced%20and%20free" alt="Typing headlines" />
 </p>
 
 ### aboutMe
