@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/lefteris140">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontFamily=Parley_Bold&fontSize=54&height=90&width=634&text=hey%2C%20i'm%20lefteris" alt="hey, i&#39;m lefteris" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontFamily=Parley&fontSize=54&height=90&width=634&text=hey%2C%20i'm%20lefteris" alt="hey, i&#39;m lefteris" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Parley_Bold&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=625&height=44&lines=an%20AI%20researcher%20tryna%20change%20the%20world;all%20code%20is%20open%20sourced%20and%20free" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Parley&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=625&height=44&lines=an%20AI%20researcher%20tryna%20change%20the%20world;all%20code%20is%20open%20sourced%20and%20free" alt="Typing headlines" />
 </p>
 
 ### about_me
