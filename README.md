@@ -8,16 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=625&height=44&lines=an%20AI%20researcher%20tryna%20change%20the%20world;all%20code%20is%20open%20sourced%20and%20free" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### 🚀 about me
 
 computational biology + bioinformatics researcher looking into biotech and the med scene
 
-🔭 &nbsp;I'm currently working on **the USAMO Guide and bioinformatics research**  
-🌱 &nbsp;I'm currently learning **deep learning, bio, and number theory**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **i like lifting**
+🔭 &nbsp;i'm currently working on **the USAMO Guide and bioinformatics research**  
+🔢 &nbsp;i'm currently learning **deep learning, bio, and number theory**  
+🚹 &nbsp;pronouns: **he/him**  
+🏋️‍♂️ &nbsp;a fun fact about me is that: **i like lifting**
 
-### 🛠️ Tech Stack
+### 👨‍💻 tech stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -35,13 +35,13 @@ computational biology + bioinformatics researcher looking into biotech and the m
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-### 🔗 Connect With Me
+### 🔗 email
 
 <p align="left">
   <a href="mailto:lefterisdemosthenous11@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 💭 Dev Quote
+### 💭 dev quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
