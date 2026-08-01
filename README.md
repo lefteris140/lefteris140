@@ -12,12 +12,12 @@
 
 computational biology + bioinformatics researcher looking into biotech and the med scene
 
-🔭 &nbsp;i'm currently working on **the USAMO Guide and bioinformatics research**  
-🔢 &nbsp;i'm currently learning **deep learning, bio, and number theory**  
-🚹 &nbsp;pronouns: **he/him**  
-🏋️‍♂️ &nbsp;a fun fact about me is that: **i like lifting**
+ &nbsp;i'm currently working on **the USAMO Guide and bioinformatics research**  
+ &nbsp;i'm currently learning **deep learning, bio, and number theory**  
+ &nbsp;pronouns: **he/him**  
+ &nbsp;a fun fact about me is that: **i like lifting**
 
-### 👨‍💻 techStack
+### techStack
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -35,17 +35,17 @@ computational biology + bioinformatics researcher looking into biotech and the m
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-### 🔗 email
+### email
 
 <p align="left">
   <a href="mailto:lefterisdemosthenous11@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 💭 devQuote
+### devQuote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/lefteris140">lefteris140</a></i></p>
+<p align="center"><i>💞 from <a href="https://github.com/lefteris140">lefteris</a></i></p>
