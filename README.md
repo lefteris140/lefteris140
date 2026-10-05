@@ -14,8 +14,7 @@
 
 /\ &nbsp;i'm currently working on the **USAMO Guide** and **bioinformatics research**   
 /\ &nbsp;i'm currently learning **deep learning, bio, and number theory**    
-/\ &nbsp;pronouns: **he/him**    
-/\ &nbsp;a fun fact about me is that: **i like lifting**   
+/\ &nbsp;a fun fact about me is that **i like lifting**   
 
 ### techStack
 
